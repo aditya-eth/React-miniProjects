@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-https://github.com/aditya-eth/React-miniProjects/blob/main/my-app/src/images/my-app.png
+<img src = "https://github.com/aditya-eth/React-miniProjects/blob/main/my-app/src/images/my-app.png">
 
 ## Available Scripts
 
